@@ -1,0 +1,17 @@
+title: 我的知识库
+description: 简单实用的个人知识库
+theme: minima
+
+# 左侧导航配置
+header_pages:
+  - cv.md
+  - machine-learning/svm.md
+
+# 导航菜单
+nav:
+  - title: 首页
+    url: /cv
+  - title: 机器学习
+    children:
+      - title: SVM
+        url: /machine-learning/svm
