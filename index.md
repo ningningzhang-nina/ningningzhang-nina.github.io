@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 我的知识库
+title: 欢迎来到我的知识库
 ---
 
 # 欢迎来到我的知识库
