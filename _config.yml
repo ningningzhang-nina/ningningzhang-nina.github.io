@@ -8,10 +8,10 @@ header_pages:
   - machine-learning/svm.md
 
 # 导航菜单
-nav:
-  - title: 首页
-    url: /cv
-  - title: 机器学习
-    children:
-      - title: SVM
-        url: /machine-learning/svm
+#nav:
+#  - title: 首页
+ #   url: /cv
+ # - title: 机器学习
+    #children:
+      #- title: SVM
+        #url: /machine-learning/svm
