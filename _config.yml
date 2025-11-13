@@ -5,7 +5,7 @@ theme: minima
 # 左侧导航配置
 header_pages:
   - cv.md
-  - machine-learning/svm.md
+ # - machine-learning/svm.md
 
 # 导航菜单
 #nav:
