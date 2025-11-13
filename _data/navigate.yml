@@ -1,0 +1,6 @@
+- title: 首页
+  url: /
+- title: 技术笔记
+  children:
+    - title: 机器学习
+      url: /tech/machine-learning/
