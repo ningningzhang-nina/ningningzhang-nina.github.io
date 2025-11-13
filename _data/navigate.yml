@@ -4,3 +4,6 @@
   children:
     - title: 机器学习
       url: /tech/machine-learning/
+  children:
+    - title: 运筹优化
+      url: /tech/optimization/
