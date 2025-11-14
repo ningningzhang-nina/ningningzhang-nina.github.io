@@ -17,7 +17,7 @@ title: Travel
 </style>
 
 ### 四川成都
-<img src="/assets/Images/sanxingdui.jpeg" alt="三星堆" />
+<img src="/assets/Images/IMG_6088.jpeg" alt="三星堆" />
 
 
 京都哲学之道 | 2024年12月
