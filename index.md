@@ -10,8 +10,7 @@ author_profile: true
 
 This is Zhang Ningning's personal homepage. Please also refer to my [homepage](https://ningningzhang-nina.github.io/). 
 ## <span style="color: red;">Contact
-📧 [email](zhangnn0725@163.com)  
-🐙 [GitHub Profile](https://github.com/ningningzhang-nina)
+📧 [email](zhangnn0725@163.com)  🐙 [GitHub Profile](https://github.com/ningningzhang-nina)
 
 ## 🎓 <span style="color: red;">Education & Professional Experience
 
