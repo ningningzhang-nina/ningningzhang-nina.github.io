@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 机器学习
+title: Personal Knowledge Base
 ---
 
 # 机器学习笔记
