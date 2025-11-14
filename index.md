@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Zhang Ningning"
+title: "About me"
 permalink: /
 excerpt: "About me"
 author_profile: true
