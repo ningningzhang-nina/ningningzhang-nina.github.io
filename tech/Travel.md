@@ -27,7 +27,7 @@ title: Travel
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <td style="text-align: center; padding: 10px;">
-      <img src="/assets/Images/IMG_2540.jpeg" alt="三星堆" style="max-width: 100%; height: auto;" />
+      <img src="/assets/Images/IMG_2552.jpeg" alt="三星堆" style="max-width: 100%; height: auto;" />
       <p style="font-size: 0.9em; margin: 5px 0;"> 香港</p>
     </td>
     <td style="text-align: center; padding: 10px;">
@@ -35,7 +35,7 @@ title: Travel
       <p style="font-size: 0.9em; margin: 5px 0;">香港 </p>
     </td>
     <td style="text-align: center; padding: 10px;">
-      <img src="/assets/Images/IMG_5969.jpeg" alt="成都" style="max-width: 100%; height: auto;" />
+      <img src="/assets/Images/IMG_2470.jpeg" alt="成都" style="max-width: 100%; height: auto;" />
       <p style="font-size: 0.9em; margin: 5px 0;">香港</p>
     </td>
   </tr>
