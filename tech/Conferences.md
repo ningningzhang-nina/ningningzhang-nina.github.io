@@ -79,3 +79,17 @@ title: Conferences
   </div>
 </div>
 
+
+<div class="conference-card">
+  <a href="https://icml.cc" class="conference-link" target="_blank">
+    <img src="/assets/Images/hku.jpeg" alt="ICML 2023 Conference" class="conference-image">
+  </a>
+  <h2 class="conference-title">第四届时间序列分析国际学术研讨会</h2>
+  <p class="conference-description">
+    Presented our research on <strong>causal discovery methods for financial time series</strong>. 
+    This workshop brought together researchers from academia and industry to discuss the latest advances in causal machine learning.
+  </p>
+  <div class="conference-details">
+    <span class="conference-date">July 04, 2024</span> | Guilin, China
+  </div>
+</div>
