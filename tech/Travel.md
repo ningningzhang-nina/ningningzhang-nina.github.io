@@ -26,15 +26,15 @@ title: Travel
 <table class="photo-table">
   <tr>
     <td>
-      ![三星堆](../assets/Images/IMG_6088.jpeg)
+      ![三星堆](/assets/Images/IMG_6088.jpeg)
       <p>三星堆博物馆</p>
     </td>
     <td>
-      ![深圳](../assets/Images/IMG_6044.jpeg)
+      ![深圳](/assets/Images/IMG_6044.jpeg)
       <p>深圳夜景</p>
     </td>
     <td>
-      ![成都](../assets/Images/chengdu.jpeg)
+      ![成都](/assets/Images/chengdu.jpeg)
       <p>成都宽窄巷子</p>
     </td>
   </tr>
