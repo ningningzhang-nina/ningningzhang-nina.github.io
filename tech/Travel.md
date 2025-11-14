@@ -24,6 +24,43 @@ title: Travel
   </tr>
 </table>
 
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="/assets/Images/IMG_2540.jpeg" alt="三星堆" style="max-width: 100%; height: auto;" />
+      <p style="font-size: 0.9em; margin: 5px 0;"> 香港</p>
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="/assets/Images/IMG_0023.jpeg" alt="深圳" style="max-width: 100%; height: auto;" />
+      <p style="font-size: 0.9em; margin: 5px 0;">香港 </p>
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="/assets/Images/IMG_5969.jpeg" alt="成都" style="max-width: 100%; height: auto;" />
+      <p style="font-size: 0.9em; margin: 5px 0;">香港</p>
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="/assets/Images/IMG_0106.jpeg" alt="三星堆" style="max-width: 100%; height: auto;" />
+      <p style="font-size: 0.9em; margin: 5px 0;"> 香港</p>
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="/assets/Images/IMG_1860.jpeg" alt="深圳" style="max-width: 100%; height: auto;" />
+      <p style="font-size: 0.9em; margin: 5px 0;">香港 </p>
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="/assets/Images/IMG_1882.jpeg" alt="成都" style="max-width: 100%; height: auto;" />
+      <p style="font-size: 0.9em; margin: 5px 0;">香港</p>
+    </td>
+  </tr>
+</table>
+
+
+
+
 香港 ｜ 2024年
 
 
