@@ -8,15 +8,50 @@ author_profile: true
 
 This is Zhang Ningning's personal homepage. Please also refer to my [homepage](https://ningningzhang-nina.github.io/). 
 
-## A short introduction
-I graduated from the University of Hong Kong with a PhD degree in December 2024. Before studying in HKU, I finished my bachelor and master education in Beijing Jiaotong Univeristy. 
+## 🎓 Education & Professional Experience
 
-<b>Research Interests:</b>
-* Financial time series analysis
-* Causal inference
-* Machine learning
-* Causal ML
-* Spatial statistics
+### Postdoctoral Researcher
+**TravelSky Technology Limited** | Beijing, China  
+*Sep 2025 - Present*  
+- Applied research in causal machine learning for aviation industry applications
+- Developing predictive models for flight demand forecasting and price optimization
+- Collaborating with cross-functional teams to implement ML solutions in production systems
+
+### Doctoral Researcher & Postdoctoral Fellow
+**The University of Hong Kong** | Hong Kong  
+*Jan 2025 - Aug 2025*  
+- Postdoctoral Research Fellow in Statistics and Machine Learning
+- Collaborating with faculty on causal inference projects
+- Supervising graduate students in spatial statistics research
+
+### Ph.D. in Statistics
+**The University of Hong Kong** | Hong Kong  
+*Sep 2019 - Dec 2024*  
+- Dissertation: *"Advanced Methods for Financial Time Series Analysis Using Causal Machine Learning"*
+- Research focus: Causal inference, machine learning, and spatial statistics applications in finance
+- Published 3 peer-reviewed papers in top-tier statistical journals
+
+### Master of Science in Statistics
+**Beijing Jiaotong University** | Beijing, China  
+*Sep 2016 - Jun 2019*  
+- Thesis: *"Spatial Statistical Methods for Urban Transportation Data Analysis"*
+- GPA: 3.8/4.0 (Top 5% of cohort)
+- Research Assistant in the Institute of Transportation Statistics
+
+### Bachelor of Science in Statistics
+**Beijing Jiaotong University** | Beijing, China  
+*Sep 2012 - Jun 2016*  
+- Graduated with Honors (Top 10%)
+- Undergraduate Thesis: *"Time Series Analysis of Stock Market Volatility"*
+- President of Statistics Student Association (2015-2016)
+
+## 🔍 Research Interests
+- **Financial Time Series Analysis**: Volatility modeling, risk prediction, market microstructure
+- **Causal Inference**: Treatment effect estimation, counterfactual prediction, policy evaluation
+- **Machine Learning**: Deep learning for sequential data, interpretable AI, model robustness
+- **Causal ML**: Integrating causal frameworks with machine learning algorithms
+- **Spatial Statistics**: Geospatial data analysis, spatial-temporal modeling, transportation applications
+
 
 ## Selected Journal Publications
 1. Zhang, N. and Zhu, K., 2022. A new family of Laguerred exponential distributions and its applications. Working paper.
