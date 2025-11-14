@@ -1,14 +1,9 @@
 ---
-permalink: /
-title: "Publication"
-excerpt: "Publication"
-author_profile: true
-redirect_from: 
-  - /tech/Publication/
+layout: default
+title: Publication
 ---
 
-
-## Journal Publications
+# Journal Publications
 1. Zhang, N. and Zhu, K., 2022. A new family of Laguerred exponential distributions and its applications. Working paper.
 
 2. Zhu, Z., Zhang, N. and Zhu, K., 2022. Big portfolio selection by graph-based conditional moments method. Journal of Empirical Finance.[link](https://authors.elsevier.com/c/1jd0y3IvUnkNwn)
