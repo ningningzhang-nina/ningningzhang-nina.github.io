@@ -25,14 +25,14 @@ title: Travel
 ---
 
 ### 深圳
-<img src="/assets/Images/IMG_5632.jpeg" alt="深圳" />
+<img src="/assets/Images/IMG_5632.jpeg" alt="深圳" width="30%" />
 
 深圳 | 2024年11月
 
 ---
 
 ### 香港
-<img src="/assets/Images/IMG_5387.jpeg" alt="香港" />
+<img src="/assets/Images/IMG_5387.jpeg" alt="香港" width="30%" />
 
 香港 
 
