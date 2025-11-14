@@ -5,6 +5,8 @@ permalink: /
 excerpt: "About me"
 author_profile: true
 ---
+![我的照片](/assets/Images/IMG_5969.jpg){: style="float: left; margin-right: 10px;" width="100" height="100"}
+
 
 This is Zhang Ningning's personal homepage. Please also refer to my [homepage](https://ningningzhang-nina.github.io/). 
 ## <span style="color: red;">Contact
