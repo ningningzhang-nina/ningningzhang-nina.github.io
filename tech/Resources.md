@@ -11,5 +11,6 @@ title: Resources
 
 
 # Econometrics
-[曼昆经济学原理](https://drive.google.com/file/d/1fwhMndW7PMlQGB4t6zIDqbVuMBzGheiG/view?usp=drive_link)
+- [曼昆经济学原理](https://drive.google.com/file/d/1fwhMndW7PMlQGB4t6zIDqbVuMBzGheiG/view?usp=drive_link)
+- [金融时间序列分析](https://drive.google.com/file/d/1zLKBrnHHJnKQ3ZcunnULJYXWZL0zMl3z/view?usp=drive_link)
 
