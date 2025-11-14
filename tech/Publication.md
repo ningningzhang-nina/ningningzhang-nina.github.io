@@ -21,3 +21,6 @@ title: Publication
 8. Zhang, N., Lin, A. and Shang, P., 2017. Symbolic phase transfer entropy method and its application. Communications in Nonlinear Science and Numerical Simulation, 51, pp.78-88. [link](https://doi.org/10.1016/j.cnsns.2017.03.011)
 
 9. Zhang, N., Lin, A. and Shang, P., 2017. Multidimensional k-nearest neighbor model based on EEMD for financial time series forecasting. Physica A: Statistical Mechanics and its Applications, 477, pp.161-173. [link](https://doi.org/10.1016/j.physa.2017.02.072)
+
+10. Zhang, N., Lin, A. and Shang, P., 2017. Multiscale symbolic phase transfer entropy in financial time series classification. Fluctuation and Noise Letters, 16(02), p.1750019. [link](https://www.worldscientific.com/doi/abs/10.1142/S0219477517500195))
+
