@@ -21,7 +21,6 @@ title: Travel
   }
 </style>
 
-### 四川成都
 
 
 ### 香港
@@ -30,36 +29,37 @@ title: Travel
   <tr>
     <td style="text-align: center; padding: 10px;">
       <img src="/assets/Images/IMG_5387.jpeg" alt="三星堆" style="max-width: 100%; height: auto;" />
-      <p style="font-size: 0.9em; margin: 5px 0;">三星堆博物馆</p>
+      <p style="font-size: 0.9em; margin: 5px 0;"> 香港/p>
     </td>
     <td style="text-align: center; padding: 10px;">
       <img src="/assets/Images/IMG_6627.jpeg" alt="深圳" style="max-width: 100%; height: auto;" />
-      <p style="font-size: 0.9em; margin: 5px 0;">深圳夜景</p>
+      <p style="font-size: 0.9em; margin: 5px 0;">香港 </p>
     </td>
     <td style="text-align: center; padding: 10px;">
       <img src="/assets/Images/IMG_5618.jpeg" alt="成都" style="max-width: 100%; height: auto;" />
-      <p style="font-size: 0.9em; margin: 5px 0;">成都宽窄巷子</p>
+      <p style="font-size: 0.9em; margin: 5px 0;">香港</p>
     </td>
   </tr>
 </table>
 
+香港 ｜ 2024年
 
 
+### 成都
 
-
-<table class="photo-table">
+<table style="width:100%; border-collapse: collapse;">
   <tr>
-    <td>
-      ![三星堆](/assets/Images/IMG_6088.jpeg)
-      <p>三星堆博物馆</p>
+    <td style="text-align: center; padding: 10px;">
+      <img src="/assets/Images/IMG_6088.jpeg" alt="三星堆" style="max-width: 100%; height: auto;" />
+      <p style="font-size: 0.9em; margin: 5px 0;"> 香港/p>
     </td>
-    <td>
-      ![深圳](/assets/Images/IMG_6044.jpeg)
-      <p>深圳夜景</p>
+    <td style="text-align: center; padding: 10px;">
+      <img src="/assets/Images/IMG_6044.jpeg" alt="深圳" style="max-width: 100%; height: auto;" />
+      <p style="font-size: 0.9em; margin: 5px 0;">香港 </p>
     </td>
-    <td>
-      ![成都](/assets/Images/chengdu.jpeg)
-      <p>成都宽窄巷子</p>
+    <td style="text-align: center; padding: 10px;">
+      <img src="/assets/Images/IMG_5618.jpeg" alt="成都" style="max-width: 100%; height: auto;" />
+      <p style="font-size: 0.9em; margin: 5px 0;">香港</p>
     </td>
   </tr>
 </table>
@@ -76,28 +76,6 @@ title: Travel
 
 ---
 
-### 香港
 
-<table class="photo-table">
-  <tr>
-    <td>
-      ![三星堆](../assets/Images/IMG_5387.jpeg)
-      <p>三星堆博物馆</p>
-    </td>
-    <td>
-      ![深圳](../assets/Images/IMG_6627.jpeg)
-      <p>深圳夜景</p>
-    </td>
-    <td>
-      ![成都](../assets/Images/IMG_5618.jpeg)
-      <p>成都宽窄巷子</p>
-    </td>
-  </tr>
-</table>
-
-
-
-
-香港 
 
 > ✈️ 旅行小贴士：最好的照片往往在计划外的小巷中发现
