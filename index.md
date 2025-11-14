@@ -61,4 +61,5 @@ This is Zhang Ningning's personal homepage. Please also refer to my [homepage](h
 More info about Zhang Ningning can be found in [CV](https://ningningzhang-nina.github.io/cv/) or [downloaded CV](http://ningningzhang-nina.github.io/files/CV_in_chinese.pdf).
 
 
-![我的照片](/assets/Images/IMG_2540.jpeg)
+![我的照片](/assets/Images/IMG_2540.jpeg){: width="300" }
+_Always on the road-coding, exploring, experiencing, and so on_
