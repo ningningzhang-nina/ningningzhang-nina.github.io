@@ -23,6 +23,30 @@ title: Travel
 
 ### 四川成都
 
+
+### 香港
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="/assets/Images/IMG_5387.jpeg" alt="三星堆" style="max-width: 100%; height: auto;" />
+      <p style="font-size: 0.9em; margin: 5px 0;">三星堆博物馆</p>
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="/assets/Images/IMG_6627.jpeg" alt="深圳" style="max-width: 100%; height: auto;" />
+      <p style="font-size: 0.9em; margin: 5px 0;">深圳夜景</p>
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="/assets/Images/IMG_5618.jpeg" alt="成都" style="max-width: 100%; height: auto;" />
+      <p style="font-size: 0.9em; margin: 5px 0;">成都宽窄巷子</p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 <table class="photo-table">
   <tr>
     <td>
