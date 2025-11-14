@@ -17,7 +17,7 @@ title: Travel
 </style>
 
 ### 四川成都
-<img src="https://github.com/ningningzhang-nina/ningningzhang-nina.github.io/blob/main/assets/Images/sanxingdui.jpeg" alt="三星堆" />
+<img src="../assets/Images/sanxingdui.jpeg" alt="三星堆" />
 
 
 京都哲学之道 | 2024年12月
