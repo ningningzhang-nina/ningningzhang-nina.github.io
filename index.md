@@ -1,16 +1,22 @@
 ---
 layout: default
-title: 欢迎来到我的知识库
+title: "Zhang Ningning"
+permalink: /
+excerpt: "About me"
+author_profile: true
 ---
 
-# 欢迎来到我的知识库
+This is Zhang Ningning's personal homepage. Please also refer to my [homepage](https://ningningzhang-nina.github.io/). 
 
-## 我的个人简介
+## A short introduction
+I graduated from the University of Hong Kong with a PhD degree in December 2024. Before studying in HKU, I finished my bachelor and master education in Beijing Jiaotong Univeristy. 
 
-## 📚 分类
+<b>Research Interests:</b>
+* Financial time series analysis
+* Causal inference
+* Machine learning
+* Causal ML
+* Spatial statistics
 
-## 📅 最近更新
-- 2023-11-13: 创建知识库
-- 2023-11-14: 添加了第一个笔记
-
-> 💡 提示：点击左侧分类即可查看详细内容
+## Selected Journal Publications
+1. Zhang, N. and Zhu, K., 2022. A new family of Laguerred exponential distributions and its applications. Working paper.
